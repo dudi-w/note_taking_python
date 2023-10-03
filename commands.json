@@ -1,0 +1,91 @@
+[
+    {
+        "type": "CreateNoteCommand",
+        "title": "test",
+        "content": "wdcasfcac"
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": 2
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": "o k p l ; l"
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": "w w w"
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": "s d c d d a s"
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": "d s f v o d"
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": "fvsl doaafm ol qesdfak lm"
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": "5"
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": "0"
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": "5"
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": 5
+    },
+    {
+        "type": "ViewNoteCommand",
+        "identifier": 0
+    },
+    {
+        "type": "CreateNoteCommand",
+        "title": "abc",
+        "content": "efg"
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": "t e s t"
+    },
+    {
+        "type": "DeleteNoteCommand",
+        "identifier": "test"
+    },
+    {
+        "type": "UndoLestCommand"
+    }
+]
